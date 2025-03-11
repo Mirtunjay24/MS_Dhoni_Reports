@@ -1,2 +1,10 @@
 # MS_Dhoni_Reports
-🚀 MS Dhoni’s International Cricket Career – Data Insights  ✅ 612 matches played across formats ✅ 32.83 batting average – consistency across formats ✅ 1486 fours &amp; 359 sixes – a true finisher! ✅ Runs scored across formats:  ODI: 106,093 🏆 T20: 40,040 🔥 Test: 41,445 
+The dashboard appears to be created using Microsoft Excel, leveraging the following tools and features:
+
+Pivot Tables & Pivot Charts – Used for data aggregation, filtering, and visualization.
+Slicers & Filters – To allow interactive selection of match types, opponents, etc.
+Charts & Graphs – Including pie charts, bar charts, and column charts to visualize performance metrics.
+Conditional Formatting – Used to highlight key values such as different match formats.
+Form Controls (Buttons, Drop-downs, Checkboxes) – Likely used for interactivity.
+Data Labels & Formatting – Enhances readability with labels and numerical displays.
+Custom Cell Formatting & Formulas – To display key metrics like average runs, sixes, and matches played
